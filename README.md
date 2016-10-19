@@ -1,2 +1,2 @@
 # Pilha
-Pilha genéica implementada em java
+Pilha genérica implementada em java
