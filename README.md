@@ -1,2 +1,2 @@
 # Pilha
-Pilha genérica implementada em java
+Pilha genérica implementada em java usada em DFS.
